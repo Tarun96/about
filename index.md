@@ -6,20 +6,9 @@
         <div class="container">
             <img class="profile-image img-responsive pull-left" src="assets/images/profile.jpg" alt="Nallagatla Manikanta" />
             <div class="profile-content pull-left">
-                <h1 class="name">NALLAGATLA MANIKANTA</h1>
-                <h2 class="desc">Distributed Systems | MTS 4 @Nutanix | Ex-Adobe | Gold Medalist @IIT Roorkee</h2>
-                <ul class="social list-inline">
-                    <li><a href="mailto:manikanta001nallagatla@gmail.com"><i class="fa fa-envelope-o"></i></a></li>
-                    <li><a href="https://www.linkedin.com/in/nallagatla-manikanta-20593383/"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="https://github.com/manikantanallagatla"><i class="fa fa-github"></i></a></li>
-                    <li><a href="https://www.facebook.com/manikanta.nallagatla"><i class="fa fa-facebook"></i></a></li>
-                    <li class="last-item"><a href="https://drive.google.com/file/d/1gPii9Nv3VtrO27rYakz9naz6Yy8RCeW_/view?usp=sharing"><i class="fa fa-file-pdf-o"></i></a></li>
-                </ul>
-            </div><!--//profile-->
-            <a class="btn btn-cta-primary pull-right" href="mailto:manikanta001nallagatla@gmail.com" target="_blank"><i class="fa fa-paper-plane"></i>Contact Me</a>
-        </div><!--//container-->
-    </header><!--//header-->
-
+                <h1 class="name">Tarun kumar</h1>
+                <h2 class="desc">Distributed Systems | SDE 2 @Bidgely | IIT Roorkee Grad</h2>
+  
     <div class="container sections-wrapper">
         <div class="row">
                 <div class="primary col-md-1 col-sm-12 col-xs-12">
