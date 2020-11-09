@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-
 <body>
     <!-- ******HEADER****** -->
     <header class="header">
         <div class="container">
-<!--             <img class="profile-image img-responsive pull-left" src="assets/images/profile.jpg" alt="Nallagatla Manikanta" /> -->
             <div class="profile-content pull-left">
                 <h1 class="name">Tarun kumar</h1>
                 <h2 class="desc">Distributed Systems | SDE 2 @Bidgely | IIT Roorkee Grad</h2>
